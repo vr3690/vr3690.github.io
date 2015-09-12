@@ -81,7 +81,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: linear-gradient( rgba(24,188,155,0.45),rgba(24,188,155,0.45)), url("../img/hero.png") no-repeat;
+    background: linear-gradient( rgba(24,188,155,0.85),rgba(24,188,155,0.85)), url("../img/hero.png") no-repeat;
     background-size: cover;
 }
 
