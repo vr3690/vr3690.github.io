@@ -1,0 +1,26 @@
+{
+  "name": "vivekranjan.me",
+  "version": "1.0.0",
+  "description": "Personal website for Vivek Ranjan. Living at http://vivekranjan.me",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vr3690/vr3690.github.io.git"
+  },
+  "keywords": [
+    "vivek",
+    "ranjan"
+  ],
+  "author": "Vivek Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vr3690/vr3690.github.io/issues"
+  },
+  "homepage": "https://github.com/vr3690/vr3690.github.io#readme",
+  "devDependencies": {
+    "bower": "^1.7.2",
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "resume-cli": "^0.4.8"
+  }
+}
