@@ -1,0 +1,27 @@
+{
+  "name": "vivekranjan.me",
+  "description": "Personal website for Vivek Ranjan. Living at http://vivekranjan.me",
+  "main": "index.html",
+  "authors": [
+    "Vivek Ranjan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "vivek",
+    "ranjan"
+  ],
+  "homepage": "https://github.com/vr3690/vr3690.github.io",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
