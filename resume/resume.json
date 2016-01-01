@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Vivek Ranjan",
+    "label": "Full Stack Software Engineer",
+    "picture": "http://vivekranjan.me/img/profile.png",
+    "email": "vr3690@gmail.com",
+    "website": "http://vivekranjan.me",
+    "location": {
+      "city": "Minneapolis, MN",
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "vr3690",
+        "url": "https://twitter.com/vr3690"
+      },
+      {
+        "network": "GitHub",
+        "username": "vr3690",
+        "url": "https://github.com/vr3690"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Vivek Ranjan",
+        "url": "https://www.linkedin.com/in/vivekranjan1"
+      },
+    ]
+  },
+  "work": [
+    {
+      "company": "FastBridge Learning",
+      "position": "Software Engineer",
+      "website": "http://fastbridge.org",
+      "startDate": "2015-06-15",
+      "summary": "FastBridge Learngin creates products for and with teachers. It offers the only comprehensive assessment system with both Curriculum-Based Measures (CBM) and Computer-Adaptive Tests (CAT) to screen, diagnose, monitor and inform instruction faster—when you need actionable data—so you spend less time testing or guessing and more time teaching."
+    },
+    {
+        "company": "University of Minnesota",
+        "position": "Software Engineer - Graduate Research Assistant",
+        "startDate": "2014-01-09",
+        "endDate": "2015-05-24",
+        "summary": "Worked with the department of education psychology while pursuing my MS. I am working with a small team of researchers and computer scientists to develop better assessments for school students that are delivered via a web app. The technology stack used here is Spring MVC with Hibernate, Microsoft SQL Server, Tomcat on AWS servers and HTML/CSS with JavaScript and jQuery for the frontend",
+        "highlights": [
+            "Developing software for new assessments.",
+            "Creating reports from the data collected for the researchers as requested.",
+            "Mentoring new recruits.",
+            "Creating web based reports for schools and teachers to track the progress of their students."
+        ]
+    },
+    {
+        "company": "Unique Identification Authority of India, Government of India",
+        "position": "Software Engineer",
+        "startDate": "2011-12-15",
+        "endDate": "2012-06-15",
+        "summary": "UIDAI is the agency behind the Aadhaar that was started by the Government of India to provide all residents with a unique identification number that can help with various welfare programs.",
+        "highlights": [
+            "Worked with a team of Software Developers from Accenture and CMC Ltd as part of the software development team for the Mumbai regional office of UIDAI and then as part of the End To End process testing team.",
+            "Created a web application for internal reporting purposes.",
+            "Created a de-duplication software suite that included the main program used to detect duplicates among new enrolments in the Aadhaar program and the Aadhaar cards already generated.",
+            "The suite also contained a web app for manual de-duplication and for displaying the results of the de-duplication efforts.",
+            "Wrote multiple programs used to track processes for end to end testing and streamlining of the Aadhaar processes."
+        ]
+    },
+    {
+        "company": "Whackk!",
+        "position": "CTO/Co-Founder",
+        "summary": "Whackk! is an online e-magazine for the youth of India that is run, managed and maintained by people who are not a bunch of old farts and aspire for Whackk! to be considered young India's mouthpiece.",
+        "startDate": "2010-06-10",
+        "endDate": "2015-05-30",
+        "highlights": [
+          "Developed an Android application for the website, available on the Play Store.",
+          "Developed and deployed three versions of designs with Drupal CMS. The latest design as mobile first and completely responsive.",
+          "Manage a team of almost 40 voluntary contributors.",
+          "Used various means and best practices to increase the performance and usability of the site."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Minnesota",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2013-09-01"
+    },
+    {
+      "institution": "University of Mumbai",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2008-08-01",
+      "endDate": "2013-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "Bootstrap",
+        "Ajax",
+        "JSON",
+        "Grunt/Gulp",
+        "NodeJS",
+        "Bower"
+      ]
+    },
+    {
+        "name": "Java",
+        "level": "Master",
+        "keywords": [
+            "Java 6/7/8",
+            "Spring",
+            "Hibernate",
+            "Gradle"
+        ]
+    },
+    {
+      "name": "LAMP",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP",
+        "Drupal",
+        "Wordpress",
+        "Apache",
+        "MySQL",
+        "Symfony"
+      ]
+    },
+    {
+        "name": "Databases",
+        "level": "Intermediate",
+        "keywords": [
+            "MySQL",
+            "Microsoft SQL Server",
+            "PostgresSQL"
+        ]
+    }
+  ]
+}
