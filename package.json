@@ -22,5 +22,8 @@
     "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",
     "resume-cli": "^0.4.8"
+  },
+  "dependencies": {
+    "hackmyresume": "^1.8.0"
   }
 }
