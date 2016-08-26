@@ -66,13 +66,13 @@
     {
         "company": "Whackk!",
         "position": "CTO/Co-Founder",
-        "summary": "Whackk! is an online e-magazine for the youth of India that is run, managed and maintained by people who are not a bunch of old farts and aspire for Whackk! to be considered young India's mouthpiece.",
+        "summary": "Whackk! was an online e-magazine that aspired for to be young India's mouthpiece.",
         "startDate": "2010-06-10",
         "endDate": "2015-05-30",
         "highlights": [
           "Developed an Android application for the website, available on the Play Store.",
           "Developed and deployed three versions of designs with Drupal CMS. The latest design as mobile first and completely responsive.",
-          "Manage a team of almost 40 voluntary contributors.",
+          "Managed a team of almost 40 voluntary contributors.",
           "Used various means and best practices to increase the performance and usability of the site."
       ]
     }
