@@ -31,49 +31,48 @@
   "work": [
     {
       "company": "FastBridge Learning",
-      "position": "Software Engineer",
+      "position": "Software Engineer (Java, Spring MVC, Hibernate, Microsoft SQL Server, AWS, HTML/CSS, JavaScript/jQuery)",
       "website": "http://fastbridge.org",
       "startDate": "2015-06-15",
-      "summary": "FastBridge Learning creates products for and with teachers. It offers the only comprehensive assessment system with both Curriculum-Based Measures (CBM) and Computer-Adaptive Tests (CAT) to screen, diagnose, monitor and inform instruction faster—when you need actionable data—so you spend less time testing or guessing and more time teaching."
+      "summary": "FastBridge Learning offers the only comprehensive assessment system with both Curriculum-Based Measures and Computer-Adaptive Tests to diagnose, monitor and inform instruction with actionable data for teachers.",
+      "highlights": [
+            "Developing software for new assessments and other features including web based reports for schools and teachers to track the progress of their students.",
+            "Reduced the load time for a report by 98%"
+        ]
     },
     {
         "company": "University of Minnesota",
-        "position": "Software Engineer - Graduate Research Assistant",
+        "position": "Software Engineer (Java, Spring MVC, Hibernate, Microsoft SQL Server, AWS, HTML/CSS, JavaScript/jQuery)",
         "startDate": "2014-01-09",
         "endDate": "2015-05-24",
-        "summary": "Worked with the Dept. of Education Psychology while pursuing my MS. I was working with a small team of researchers and computer scientists to develop better assessments for K-12 students, delivered via a web app. The technology stack was Spring MVC with Hibernate, Microsoft SQL Server, Tomcat on AWS servers and HTML/CSS with JavaScript and jQuery for frontend",
+        "summary": "Worked with the Dept. of Education Psychology and a small team computer scientists.",
         "highlights": [
-            "Developing software for new assessments.",
-            "Creating reports from the data collected for the researchers as requested.",
-            "Mentoring new recruits.",
-            "Creating web based reports for schools and teachers to track the progress of their students."
+            "Created reports from the data collected for the researchers as requested.",
+            "Mentored new recruits."
         ]
     },
     {
         "company": "Unique Identification Authority of India, Government of India",
-        "position": "Software Engineer",
+        "position": "Software Engineer (Java, Microsfot SQL, Hibernate, jQuery, HTML/CSS)",
         "startDate": "2011-12-15",
         "endDate": "2012-06-15",
         "summary": "UIDAI is the agency behind Aadhaar - an initiative of the Government of India to provide all residents with a unique identification number that can help with various welfare programs.",
         "highlights": [
-            "Worked with a team of Software Developers from Accenture and CMC Ltd as part of the software development team for the Mumbai regional office of UIDAI and then as part of the End To End process testing team.",
-            "Created a web application for internal reporting purposes.",
+            "Created a web application for internal reporting purposes, feature for manual de-duplication and for displaying the results of the de-duplication efforts.",
             "Created a de-duplication software suite that included the main program used to detect duplicates among new enrolments in the Aadhaar program and the Aadhaar cards already generated.",
-            "The suite also contained a web app for manual de-duplication and for displaying the results of the de-duplication efforts.",
-            "Wrote multiple programs used to track processes for end to end testing and streamlining of the Aadhaar processes."
+            "Decreased runtime of dedeuplication program by ~76% (from ~25 hours to ~6 hours)."
         ]
     },
     {
         "company": "Whackk!",
-        "position": "CTO/Co-Founder",
+        "position": "CTO/Co-Founder (PHP, Drupal, Apache, AWS, MySQL, HTML/CSS, jQuery)",
         "summary": "Whackk! was an online e-magazine that aspired to be young India's mouthpiece.",
         "startDate": "2010-06-10",
         "endDate": "2015-05-30",
         "highlights": [
-          "Developed an Android application for the website, available on the Play Store.",
-          "Developed and deployed three versions of designs with Drupal CMS. The latest design was built to be mobile first and completely responsive.",
+          "Developed an Android app and designed/implemented multiple versions of responsive designs for the website",
           "Managed a team of almost 40 voluntary contributors.",
-          "Used various means and best practices to increase the performance and usability of the site."
+          "Used various means and best practices to increase the performance (page load by ~68% (32s to 10s)) and usability of the site."
       ]
     }
   ],
@@ -94,7 +93,7 @@
   ],
   "skills": [
     {
-      "name": "Web development",
+      "name": "Frontend",
       "level": "Master",
       "keywords": [
         "HTML",
@@ -105,39 +104,28 @@
         "Ajax",
         "JSON",
         "Grunt/Gulp",
-        "NodeJS",
         "Bower"
       ]
     },
     {
-        "name": "Java",
+        "name": "Backend",
         "level": "Master",
         "keywords": [
-            "Java 6/7/8",
+            "Java",
+            "Android",
             "Spring",
             "Hibernate",
-            "Gradle"
-        ]
-    },
-    {
-      "name": "LAMP",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Drupal",
-        "Wordpress",
-        "Apache",
-        "MySQL",
-        "Symfony"
-      ]
-    },
-    {
-        "name": "Databases",
-        "level": "Intermediate",
-        "keywords": [
-            "MySQL",
+            "Gradle",
             "Microsoft SQL Server",
-            "PostgresSQL"
+            "PostgresSQL",
+            "MySQL",
+            "PHP",
+            "Drupal",
+            "Wordpress",
+            "Apache",
+            "Symfony",
+            "Python",
+            "NodeJS"
         ]
     }
   ]
