@@ -34,7 +34,6 @@
       "position": "Software Engineer (Java, Spring MVC, Hibernate, Microsoft SQL Server, AWS, HTML/CSS, JavaScript/jQuery)",
       "website": "http://fastbridge.org",
       "startDate": "2015-06-15",
-      "summary": "FastBridge Learning offers the only comprehensive assessment system with both Curriculum-Based Measures and Computer-Adaptive Tests to diagnose, monitor and inform instruction with actionable data for teachers.",
       "highlights": [
             "Developing software for new assessments and other features including web based reports for schools and teachers to track the progress of their students.",
             "Reduced the load time for a report by 98%"
@@ -45,7 +44,6 @@
         "position": "Software Engineer (Java, Spring MVC, Hibernate, Microsoft SQL Server, AWS, HTML/CSS, JavaScript/jQuery)",
         "startDate": "2014-01-09",
         "endDate": "2015-05-24",
-        "summary": "Worked with the Dept. of Education Psychology and a small team computer scientists.",
         "highlights": [
             "Created reports from the data collected for the researchers as requested.",
             "Mentored new recruits."
@@ -56,7 +54,6 @@
         "position": "Software Engineer (Java, Microsfot SQL, Hibernate, jQuery, HTML/CSS)",
         "startDate": "2011-12-15",
         "endDate": "2012-06-15",
-        "summary": "UIDAI is the agency behind Aadhaar - an initiative of the Government of India to provide all residents with a unique identification number that can help with various welfare programs.",
         "highlights": [
             "Created a web application for internal reporting purposes, feature for manual de-duplication and for displaying the results of the de-duplication efforts.",
             "Created a de-duplication software suite that included the main program used to detect duplicates among new enrolments in the Aadhaar program and the Aadhaar cards already generated.",
@@ -66,7 +63,6 @@
     {
         "company": "Whackk!",
         "position": "CTO/Co-Founder (PHP, Drupal, Apache, AWS, MySQL, HTML/CSS, jQuery)",
-        "summary": "Whackk! was an online e-magazine that aspired to be young India's mouthpiece.",
         "startDate": "2010-06-10",
         "endDate": "2015-05-30",
         "highlights": [
