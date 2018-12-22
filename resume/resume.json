@@ -31,12 +31,13 @@
   "work": [
     {
       "company": "FastBridge Learning",
-      "position": "Senior Software Engineer",
-      "website": "http://fastbridge.org",
+      "position": "Senior Software Engineer / Team Lead",
+      "website": "https://fastbridge.org",
       "startDate": "2015-06-15",
       "highlights": [
             "Developing software for new assessments and other features including web based reports for schools and teachers to track the progress of their students.",
-            "Reduced the load time for a report by 98%"
+            "Reduced the load time for a report by 98%",
+            "Lead two teams (not at the same time) - focused on reducing work in progress to deliver software predictably and collaboratively."
         ]
     },
     {
@@ -94,14 +95,14 @@
         "level": "Master",
         "keywords": [
             "Java",
-            "Android",
             "Spring",
             "Hibernate",
             "SQL (MS SQL, MySQL & PostgresSQL)",
             "PHP",
             "Symfony",
             "Python",
-            "NodeJS"
+            "NodeJS",
+            "Kotlin"
         ]
     }
   ]
