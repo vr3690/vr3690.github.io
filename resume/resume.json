@@ -37,7 +37,8 @@
       "highlights": [
             "Developing software for new assessments and other features including web based reports for schools and teachers to track the progress of their students.",
             "Reduced the load time for a report by 98%",
-            "Lead two teams (not at the same time) - focused on reducing work in progress to deliver software predictably and collaboratively."
+            "Lead two teams (one at a time) - focused on reducing work in progress to deliver software predictably and collaboratively.",
+            "Lead effort to build a datawarehouse in AWS Redshift along with an ETL pipeline using AWS Lambda and Kinesis"
         ]
     },
     {
@@ -97,12 +98,13 @@
             "Java",
             "Spring",
             "Hibernate",
-            "SQL (MS SQL, MySQL & PostgresSQL)",
+            "SQL (MS SQL, MySQL, PostgresSQL, Redshift)",
             "PHP",
             "Symfony",
             "Python",
             "NodeJS",
-            "Kotlin"
+            "Kotlin",
+            "AWS (Lambda, ElasticBeanstalk, Kinesis, Redshift)"
         ]
     }
   ]
