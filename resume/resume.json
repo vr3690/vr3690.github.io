@@ -2,20 +2,15 @@
   "basics": {
     "name": "Vivek Ranjan",
     "label": "Full Stack Software Engineer",
-    "picture": "http://vivekranjan.me/img/profile.png",
+    "picture": "https://vivekranjan.me/img/profile.png",
     "email": "vivek@vivekranjan.me",
-    "website": "http://vivekranjan.me",
+    "website": "https://vivekranjan.me",
     "location": {
       "city": "Minneapolis, MN",
       "countryCode": "US",
       "region": "Minnesota"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "bcosynot",
-        "url": "https://twitter.com/bcosynot"
-      },
       {
         "network": "GitHub",
         "username": "bcosynot",
@@ -31,35 +26,42 @@
   "work": [
     {
       "company": "FastBridge Learning",
-      "position": "Senior Software Engineer / Team Lead",
+      "position": "Full Stack Senior Software Engineer / Team Lead",
       "website": "https://fastbridge.org",
       "startDate": "2015-06-15",
       "highlights": [
-            "Developing software for new assessments and other features including web based reports for schools and teachers to track the progress of their students.",
-            "Reduced the load time for a report by 98%",
-            "Lead two teams (one at a time) - focused on reducing work in progress to deliver software predictably and collaboratively.",
-            "Lead effort to build a datawarehouse in AWS Redshift along with an ETL pipeline using AWS Lambda and Kinesis"
-        ]
+        "Backend - Spring (Boot, JPA, Data, Data REST, MVC), JPA/Hibernate, Microsoft SQL Server along with AWS Redshift and other AWS technologies.",
+        "Frontend - HTML/CSS, Bootstrap and JavaScript (ES6, webpack, babel and jQuery).",
+        "Added features to existing web app for assessing reading and math abilities of students and other features. Including web based reports for educators and administrators to track progress of their students, and effectiveness of instruction or intervention.",
+        "Reduced load time for a report by 98%",
+        "Led two teams (one at a time) - focused on delivering high quality software, predictably and collaboratively using automated testing and agile/scrum.",
+        "Led effort to build a data-warehouse to consolidate data from distributed databases in AWS Redshift along with ETL pipelines using AWS Lambda and AWS Kinesis. Introduced a microservice with RESTful APIs. Worked with operations to add appropriate build pipelines, telemetry and logging."
+      ]
     },
     {
-        "company": "University of Minnesota",
-        "position": "Software Engineer",
-        "startDate": "2014-01-09",
-        "endDate": "2015-05-24",
-        "highlights": [
-            "Created reports from the data collected for the researchers as requested.",
-            "Mentored new recruits."
-        ]
+      "company": "University of Minnesota",
+      "position": "Full Stack Software Engineer",
+      "startDate": "2014-01-09",
+      "endDate": "2015-05-24",
+      "highlights": [
+        "Backend - Java (Spring MVC with Hibernate), Microsoft SQL Server hosted on AWS ElasticBeanstalk and RDS.",
+        "Frontend - HTML/CSS with JavaScript and jQuery.",
+        "Worked with the Dept. of Educational Psychology at the Univ. of Minnesota on an existing research project while pursuing my MS in Computer Science. Next employer, FastBridge Learning, was spun off from this research project.",
+        "Added features to existing web app for assessing reading abilities of students.",
+        "Created reports for the researchers - ad-hoc as well as self serve via web app.",
+        "Creating web based reports for schools and teachers to track the progress of their students.",
+        "Mentored junior engineer."
+      ]
     },
     {
-        "company": "Unique Identification Authority of India, Government of India",
-        "position": "Software Engineer (Intern)",
-        "startDate": "2011-12-15",
-        "endDate": "2012-06-15",
-        "highlights": [
-            "Created a de-duplication software suite that included computer-based detection of duplicate enrolments along with a webapp for manual de-duplication and reporting.",
-            "Decreased runtime of deduplication program by ~76% (from ~25 hours to ~6 hours)."
-        ]
+      "company": "Unique Identification Authority of India, Government of India (Aadhaar)",
+      "position": "Software Engineer (Intern)",
+      "startDate": "2011-12-15",
+      "endDate": "2012-06-15",
+      "highlights": [
+        "Created a de-duplication software suite that included computer-based detection of duplicate enrollments along with a webapp for manual de-duplication and reporting.",
+        "Decreased runtime of de-duplication program by ~76% (from ~25 hours to ~6 hours)."
+      ]
     }
   ],
   "education": [
@@ -88,24 +90,26 @@
         "JavaScript",
         "jQuery",
         "Bootstrap",
-        "React"
+        "React",
+        "Webpack",
+        "Babel",
+        "ES6"
       ]
     },
     {
-        "name": "Backend",
-        "level": "Master",
-        "keywords": [
-            "Java",
-            "Spring",
-            "Hibernate",
-            "SQL (MS SQL, MySQL, PostgresSQL, Redshift)",
-            "PHP",
-            "Symfony",
-            "Python",
-            "NodeJS",
-            "Kotlin",
-            "AWS (Lambda, ElasticBeanstalk, Kinesis, Redshift)"
-        ]
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Spring (Boot, JPA, Data, Data REST, MVC)",
+        "JPA/Hibernate",
+        "SQL",
+        "Symfony (PHP)",
+        "Python",
+        "NodeJS",
+        "Kotlin",
+        "AWS (Lambda, ElasticBeanstalk, Kinesis, Redshift, ElastiCache, S3)"
+      ]
     }
   ]
 }
