@@ -30,7 +30,7 @@
       "website": "https://fastbridge.org",
       "startDate": "2018-02-15",
       "highlights": [
-        "Led three teams (one at a time) - focused on delivering high quality software, predictably and collaboratively using automated testing and agile/scrum.",
+        "Led three teams (one at a time) - focused on predictably delivering high quality software.",
         "Led effort to build a data-warehouse to consolidate data from distributed databases in AWS Redshift along with ETL pipelines using AWS Lambda and AWS Kinesis. Introduced a microservice with RESTful APIs. Worked with operations to add appropriate build pipelines, telemetry and logging."
       ]
     },
@@ -41,7 +41,6 @@
       "startDate": "2017-03-15",
       "endDate": "2018-02-15",
       "highlights": [
-        "Added features to existing web app for assessing reading and math abilities of students and other features. Including web based reports for educators and administrators to track progress of their students, and effectiveness of instruction or intervention.",
         "Reduced load time for a report by 98%"
       ]
     },
@@ -62,22 +61,16 @@
       "startDate": "2014-01-09",
       "endDate": "2015-05-24",
       "highlights": [
-        "Backend - Java (Spring MVC with Hibernate), Microsoft SQL Server hosted on AWS ElasticBeanstalk and RDS.",
-        "Frontend - HTML/CSS with JavaScript and jQuery.",
-        "Worked with the Dept. of Educational Psychology at the Univ. of Minnesota on an existing research project while pursuing my MS in Computer Science. Next employer, FastBridge Learning, was spun off from this research project.",
-        "Added features to existing web app for assessing reading abilities of students.",
-        "Created reports for the researchers - ad-hoc as well as self serve via web app.",
-        "Creating web based reports for schools and teachers to track the progress of their students.",
+        "Using Java (Spring MVC) with HTML/CSS/JS, jQuery and Microsoft SQL server, I added features to existing web app for assessing reading abilities of students and tracking their progress.",
         "Mentored junior engineer."
       ]
     },
     {
-      "company": "Unique Identification Authority of India, Government of India (Aadhaar)",
+      "company": "Unique Identification Authority of India (Aadhaar)",
       "position": "Software Engineer (Intern)",
       "startDate": "2011-12-15",
       "endDate": "2012-06-15",
       "highlights": [
-        "Created a de-duplication software suite that included computer-based detection of duplicate enrollments along with a webapp for manual de-duplication and reporting.",
         "Decreased runtime of de-duplication program by ~76% (from ~25 hours to ~6 hours)."
       ]
     }
@@ -103,15 +96,10 @@
       "name": "Frontend",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "JavaScript",
-        "jQuery",
-        "Bootstrap",
         "React",
-        "Webpack",
-        "Babel",
-        "ES6"
+        "Vue/Vuex"
       ]
     },
     {
@@ -122,11 +110,10 @@
         "Spring (Boot, JPA, Data, Data REST, MVC)",
         "JPA/Hibernate",
         "SQL",
-        "Symfony (PHP)",
         "Python",
         "NodeJS",
         "Kotlin",
-        "AWS (Lambda, ElasticBeanstalk, Kinesis, Redshift, ElastiCache, S3)"
+        "AWS"
       ]
     }
   ]
