@@ -26,16 +26,34 @@
   "work": [
     {
       "company": "FastBridge Learning",
-      "position": "Full Stack Senior Software Engineer / Team Lead",
+      "position": "Technical Team lead / Senior Software Engineer (Full stack)",
+      "website": "https://fastbridge.org",
+      "startDate": "2018-02-15",
+      "highlights": [
+        "Led three teams (one at a time) - focused on delivering high quality software, predictably and collaboratively using automated testing and agile/scrum.",
+        "Led effort to build a data-warehouse to consolidate data from distributed databases in AWS Redshift along with ETL pipelines using AWS Lambda and AWS Kinesis. Introduced a microservice with RESTful APIs. Worked with operations to add appropriate build pipelines, telemetry and logging."
+      ]
+    },
+    {
+      "company": "FastBridge Learning",
+      "position": "Senior Software Engineer (Full stack)",
+      "website": "https://fastbridge.org",
+      "startDate": "2017-03-15",
+      "endDate": "2018-02-15",
+      "highlights": [
+        "Added features to existing web app for assessing reading and math abilities of students and other features. Including web based reports for educators and administrators to track progress of their students, and effectiveness of instruction or intervention.",
+        "Reduced load time for a report by 98%"
+      ]
+    },
+    {
+      "company": "FastBridge Learning",
+      "position": "Software Engineer (Full stack)",
       "website": "https://fastbridge.org",
       "startDate": "2015-06-15",
+      "endDate": "2017-03-15",
       "highlights": [
         "Backend - Spring (Boot, JPA, Data, Data REST, MVC), JPA/Hibernate, Microsoft SQL Server along with AWS Redshift and other AWS technologies.",
-        "Frontend - HTML/CSS, Bootstrap and JavaScript (ES6, webpack, babel and jQuery).",
-        "Added features to existing web app for assessing reading and math abilities of students and other features. Including web based reports for educators and administrators to track progress of their students, and effectiveness of instruction or intervention.",
-        "Reduced load time for a report by 98%",
-        "Led two teams (one at a time) - focused on delivering high quality software, predictably and collaboratively using automated testing and agile/scrum.",
-        "Led effort to build a data-warehouse to consolidate data from distributed databases in AWS Redshift along with ETL pipelines using AWS Lambda and AWS Kinesis. Introduced a microservice with RESTful APIs. Worked with operations to add appropriate build pipelines, telemetry and logging."
+        "Frontend - HTML/CSS, Bootstrap and JavaScript (ES6, webpack, babel and jQuery)."
       ]
     },
     {
