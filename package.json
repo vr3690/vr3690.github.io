@@ -13,19 +13,18 @@
   ],
   "author": "Vivek Ranjan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vr3690/vr3690.github.io/issues"
-  },
-  "homepage": "https://github.com/vr3690/vr3690.github.io#readme",
+  "homepage": "https://github.com/bcosynot/bcosynot.github.io#readme",
   "devDependencies": {
     "bower": "^1.8.8",
-    "browser-sync": "^2.10.1",
-    "gulp": "^3.9.0",
-    "resume-cli": "^0.4.8"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "resume-cli": "^1.2.7"
   },
   "dependencies": {
-    "hackmyresume": "^1.8.0",
-    "jsonresume-theme-kendall": "^0.1.11",
-    "jsonresume-theme-short": "^0.1.7"
+    "hackmyresume": "^1.9.0-beta",
+    "jsonresume-theme-short-with-location": "0.0.0"
+  },
+  "scripts": {
+    "generate": "rm ./resume/VivekRanjanResume.pdf ./resume/resume.pdf ./resume/resume.html; hackmyresume BUILD ./resume/resume.json TO ./resume/resume.html ./resume/VivekRanjanResume.pdf ./resume/resume.pdf -t node_modules/jsonresume-theme-short-with-location --pdf weasyprint"
   }
 }
